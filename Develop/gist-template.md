@@ -49,4 +49,4 @@ Inside this particular example we can see that its groups are using a `Greedy Ma
 
 ## Author
 
-Taha is a Full Stack Web Developer who is expanding his skills on coding through practice and resources.Checkout his github at: [github link]() 
+Taha is a Full Stack Web Developer who is expanding his skills on coding through practice and resources.Checkout his github at: [github link](https://github.com/tahachaudhry/Regex--Tutorial.git) 
